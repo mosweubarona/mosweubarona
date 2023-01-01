@@ -10,14 +10,45 @@ You can click the Preview link to take a look at your changes.
 --->
 ![Barona's github stats](https://github-readme-stats.vercel.app/api?username=mosweubarona&show_icons=true&theme=dark)
 
+<details>
+  <summary>🧮 About</summary>
+<div>
+<samp>
+<h2 align="center">About My Account</h2>
+ <p align="center">
+  <a href="github.com/mosweubarona" target="blank"><img align="center" 
+     src="https://komarev.com/ghpvc/?username=mosweubarona&style=for-the-badge&label=PROFILE+VIEWS" height="25"
+     alt="views count" /></a>
+  <a href="https://mosweubarona.github.io/mosweubarona/"><img align="center" 
+     src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2Fmosweubarona.github.io%2Fmosweubarona%2F" height="25"
+     alt="website" /></a>
+  </p>
+  <p align="center">
+  <a href="https://www.codefactor.io/repository/github/mosweubarona/mosweubarona/overview/main"><img align="center"
+     src="https://www.codefactor.io/repository/github/mosweubarona/mosweubarona/badge/main" height="25"
+     alt="CodeFactor" /></a>
+  <a href="github.com/mosweubarona" target="blank"><img align="center" 
+     src="https://github.com/mosweubarona/mosweubarona/actions/workflows/pages/pages-build-deployment/badge.svg" height="25"
+     alt="page built"/></a>
+  </p>
+ <p align="center">
+  <a href="github.com/mosweubarona" target="blank"><img align="center" 
+     src="https://img.shields.io/github/license/mosweubarona/mosweubarona?color=purple&style=for-the-badge" height="25"
+     alt="lisense" /></a>
+  <a href="github.com/mosweuarona"><img align="center"
+     src="https://forthebadge.com/images/badges/works-on-my-machine.svg" height="25"
+     alt="work on my machine" /></a>
+ </p>
+ </samp>
+</div>
+</details>
+
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <div>
   <samp>
     <h2 align="center"> Github stats </h2>
       <br/>
-    ![Barona's github stats](https://github-readme-stats.vercel.app/api?username=mosweubarona&show_icons=true&theme=dark)
-    <br/>
     <details open>
   <summary><h3>Languages</h3></summary>
             <p align="center">
