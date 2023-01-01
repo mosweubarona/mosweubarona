@@ -16,6 +16,8 @@ You can click the Preview link to take a look at your changes.
   <samp>
     <h2 align="center"> Github stats </h2>
       <br/>
+    ![Barona's github stats](https://github-readme-stats.vercel.app/api?username=mosweubarona&show_icons=true&theme=dark)
+    <br/>
     <details open>
   <summary><h3>Languages</h3></summary>
             <p align="center">
