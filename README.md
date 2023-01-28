@@ -7,6 +7,7 @@
 ✔ I’m looking to collaborate with any **Front-End Development Projects**<br>
 ✔ Ask me anything you want, I will answear even before you finish the question 😉<br>
 ✔ Crazy fact : * I am one of the best * 😎<br><br><br><br>
+  ![Profile Views](https://komarev.com/ghpvc/?username=mosweubarona&color=red&style=for-the-badge)
 
 <!---
 mosweubarona/mosweubarona is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
